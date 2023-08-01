@@ -1,1 +1,1 @@
-# MentalArithmetic
+# Mental arithmetic game
